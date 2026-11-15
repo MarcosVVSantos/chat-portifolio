@@ -155,13 +155,18 @@ def _segredo(nome: str, padrao: str = "") -> str:
 
 
 @st.cache_resource
+def criar_llm(chave: str, base_url: str, modelo: str):
+    return cliente_openai(chave, base_url, modelo)
+
+
 def preparar():
+    # O prompt é montado a cada execução (é barato), então mudanças na ficha valem na hora;
+    # só o cliente da API fica em cache.
     prompt = montar_prompt_sistema(carregar_perfil())
     chave = _segredo("LLM_API_KEY")
     if not chave:
         return prompt, None
-    llm = cliente_openai(chave, _segredo("LLM_BASE_URL", "https://api.deepseek.com"), _segredo("LLM_MODEL", "deepseek-chat"))
-    return prompt, llm
+    return prompt, criar_llm(chave, _segredo("LLM_BASE_URL", "https://api.deepseek.com"), _segredo("LLM_MODEL", "deepseek-chat"))
 
 
 def responder(pergunta: str, prompt: str, llm) -> str:
