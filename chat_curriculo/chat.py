@@ -25,7 +25,7 @@ def carregar_perfil(caminho: Path = ARQUIVO_PERFIL) -> str:
 
 
 def montar_prompt_sistema(perfil: str) -> str:
-    return f"""Você é o "Marcos.exe", o assistente do currículo interativo de Marcos Vinicio Vieira dos Santos.
+    return f"""Você é o "Marcos.exe", o assistente do portfólio interativo de Marcos Vinicio Vieira dos Santos.
 Quem conversa com você é, em geral, um recrutador ou gestor avaliando o Marcos para uma vaga.
 
 <ficha>

@@ -1,4 +1,4 @@
-"""MARCOS.EXE: currículo interativo com IA em estilo de game retrô. Rodar com: streamlit run app.py"""
+"""MARCOS.EXE: portfólio interativo com IA em estilo de game retrô. Rodar com: streamlit run app.py"""
 from __future__ import annotations
 
 import os
@@ -10,7 +10,7 @@ from chat_curriculo.chat import (
     montar_mensagens, montar_prompt_sistema, resposta_demo, validar_pergunta,
 )
 
-st.set_page_config(page_title="MARCOS.EXE · currículo interativo", page_icon="👾", layout="centered")
+st.set_page_config(page_title="MARCOS.EXE · portfólio interativo", page_icon="👾", layout="centered")
 
 CSS = """
 <style>
@@ -103,7 +103,7 @@ a { color: var(--amarelo) !important; text-decoration: underline dotted; }
 TELA_INICIAL = """
 <div class="titulo">
   <h1>MARCOS.EXE</h1>
-  <div class="sub">CURRÍCULO INTERATIVO · MOVIDO A IA</div>
+  <div class="sub">PORTFÓLIO INTERATIVO · MOVIDO A IA</div>
 </div>
 <div class="pisca">▶ PRESS START: FAÇA UMA PERGUNTA</div>
 
@@ -148,7 +148,7 @@ TELA_INICIAL = """
       <a href="https://github.com/MarcosVVSantos/TrackHub-v3" target="_blank">código</a></div>
   </div>
   <div class="missao">
-    <div class="nome">CHAT-CURRÍCULO <span class="ok">✔ CLEAR</span></div>
+    <div class="nome">CHAT-PORTFÓLIO <span class="ok">✔ CLEAR</span></div>
     <div class="desc">Este jogo que você está jogando ·
       <a href="https://github.com/MarcosVVSantos/chat-portifolio" target="_blank">código</a></div>
   </div>

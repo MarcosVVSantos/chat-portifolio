@@ -54,7 +54,7 @@
 - Rodou num piloto real numa barbearia (hoje pausado). O número do piloto foi banido pelo WhatsApp por usar uma API não oficial; a decisão foi migrar para a WhatsApp Cloud API oficial da Meta. O motor está sendo adaptado para gestão de pequenas frotas, com a marca NuvoData.
 - Indicado para quem procura: agentes de IA, MCP, tool calling, integração com WhatsApp, produto de IA para negócio real.
 
-### Chat-currículo (este chat)
+### Chat-portfólio, o MARCOS.EXE (este chat)
 - Código: https://github.com/MarcosVVSantos/chat-portifolio
 - O que é: este próprio chat. Um LLM responde perguntas de recrutadores usando só uma ficha revisada pelo Marcos, com travas para não inventar informação.
 

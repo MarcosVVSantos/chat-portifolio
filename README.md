@@ -1,6 +1,6 @@
-# 👾 MARCOS.EXE: currículo interativo com IA
+# 👾 MARCOS.EXE: portfólio interativo com IA
 
-**Em vez de ler um PDF, o recrutador conversa com o meu currículo.** Ele pergunta o que quiser ("ele já liderou equipe?", "tem algo com agentes de IA?", "me manda o link do projeto de dados") e um LLM responde só com fatos verificados sobre mim, indicando os projetos e links que combinam com o que a pessoa procura.
+**Em vez de ler um PDF, o recrutador conversa com o meu portfólio.** Ele pergunta o que quiser ("ele já liderou equipe?", "tem algo com agentes de IA?", "me manda o link do projeto de dados") e um LLM responde só com fatos verificados sobre mim, indicando os projetos e links que combinam com o que a pessoa procura.
 
 > 🎮 **Jogue aqui: [marcos-exe.streamlit.app](https://marcos-exe.streamlit.app)**
 
