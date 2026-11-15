@@ -107,6 +107,9 @@ TELA_INICIAL = """
 </div>
 <div class="pisca">▶ PRESS START: FAÇA UMA PERGUNTA</div>
 
+"""
+
+PAINEIS = """
 <div class="painel">
   <h3>✚ INVENTÁRIO</h3>
   <div class="itens">
@@ -211,6 +214,8 @@ if pergunta:
                 {"role": "user", "content": pergunta},
                 {"role": "assistant", "content": resposta if isinstance(resposta, str) else str(resposta)},
             ]
+
+st.markdown(PAINEIS, unsafe_allow_html=True)
 
 st.markdown(
     f'<div class="rodape">PERGUNTAS: {st.session_state.usadas}/{MAX_PERGUNTAS_SESSAO} · '
