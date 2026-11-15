@@ -2,7 +2,7 @@
 
 **Em vez de ler um PDF, o recrutador conversa com o meu currículo.** Ele pergunta o que quiser ("ele já liderou equipe?", "tem algo com agentes de IA?", "me manda o link do projeto de dados") e um LLM responde só com fatos verificados sobre mim, indicando os projetos e links que combinam com o que a pessoa procura.
 
-> 🎮 **Jogue aqui:** _(link do Streamlit)_
+> 🎮 **Jogue aqui: [marcos-exe.streamlit.app](https://marcos-exe.streamlit.app)**
 
 <!-- Grave um GIF de 20–40 s, salve em docs/demo.gif e troque esta linha por: ![Demonstração](docs/demo.gif) -->
 
