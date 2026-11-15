@@ -100,6 +100,7 @@ RESPOSTAS_DEMO = {
         "O eval dele subiu de 55% para 100% de acerto depois que o Marcos investigou os erros.\n"
         "2. **[Barbershop Bot](https://github.com/MarcosVVSantos/barbershop-bot)**: agente de WhatsApp com 21 ferramentas MCP, "
         "94 testes e piloto real numa barbearia."
+        "\n\nFora de IA, tem o **[TrackHub](https://trackhub-v3.vercel.app)**, uma plataforma full-stack para produtores musicais."
     ),
     "Qual o impacto dele na operação?": (
         "Na Mottu, o Marcos **reduziu a perda de ativos de 1,28% para 0,51%** reestruturando pipelines de dados, "

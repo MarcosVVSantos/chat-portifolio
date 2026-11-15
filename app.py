@@ -142,6 +142,12 @@ TELA_INICIAL = """
       <a href="https://github.com/MarcosVVSantos/barbershop-bot" target="_blank">código</a></div>
   </div>
   <div class="missao">
+    <div class="nome">TRACKHUB <span class="ok">✔ CLEAR</span></div>
+    <div class="desc">"GitHub para música" · React + Node + Prisma ·
+      <a href="https://trackhub-v3.vercel.app" target="_blank">jogar demo</a> ·
+      <a href="https://github.com/MarcosVVSantos/TrackHub-v3" target="_blank">código</a></div>
+  </div>
+  <div class="missao">
     <div class="nome">CHAT-CURRÍCULO <span class="ok">✔ CLEAR</span></div>
     <div class="desc">Este jogo que você está jogando ·
       <a href="https://github.com/MarcosVVSantos/chat-portifolio" target="_blank">código</a></div>

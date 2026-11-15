@@ -58,8 +58,14 @@
 - Código: https://github.com/MarcosVVSantos/chat-portifolio
 - O que é: este próprio chat. Um LLM responde perguntas de recrutadores usando só uma ficha revisada pelo Marcos, com travas para não inventar informação.
 
+### TrackHub: plataforma colaborativa para produtores musicais ("GitHub para música")
+- Demo online: https://trackhub-v3.vercel.app
+- Código: https://github.com/MarcosVVSantos/TrackHub-v3
+- O que é: plataforma para produtores musicais organizarem projetos, colaborarem e verem analytics. A versão atual (v3) é um monorepo com API em Node.js + Express + Prisma (MySQL) e front-end em React + Vite + TailwindCSS, com o front publicado na Vercel.
+- Versão anterior, em Java/Spring Boot com autenticação JWT, JPA/MySQL e React: https://github.com/MarcosVVSantos/TrackHub-TheProject
+- Indicado para quem procura: desenvolvimento full-stack, produto web do zero, modelagem relacional.
+
 ### Outros projetos no GitHub
-- TrackHub: plataforma colaborativa para produtores musicais ("GitHub para música"), com Java/Spring Boot, JWT, React e MySQL. https://github.com/MarcosVVSantos/TrackHub-TheProject
 - Controle Consultório: sistema fullstack de gestão de consultório com Node.js/Express, React, Sequelize e MySQL. https://github.com/MarcosVVSantos/controle-consultorio
 - Perfil completo no GitHub: https://github.com/MarcosVVSantos
 

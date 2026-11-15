@@ -44,6 +44,7 @@ streamlit run app.py
 
 - [Fleet AI Analyst](https://github.com/MarcosVVSantos/fleet-ai-analyst): agente text-to-SQL com eval de 20 perguntas ([demo](https://fleet-ai-analyst-marcos.streamlit.app)).
 - [Barbershop Bot](https://github.com/MarcosVVSantos/barbershop-bot): agente de WhatsApp com 21 ferramentas MCP e 94 testes.
+- [TrackHub](https://github.com/MarcosVVSantos/TrackHub-v3): plataforma full-stack para produtores musicais ([demo](https://trackhub-v3.vercel.app)).
 
 ---
 
