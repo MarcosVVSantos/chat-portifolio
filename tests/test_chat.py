@@ -21,7 +21,7 @@ def test_ficha_nao_expoe_telefone():
 
 def test_prompt_tem_as_travas_principais():
     prompt = montar_prompt_sistema(PERFIL)
-    for trecho in ["SOMENTE as informações da <ficha>", "Nunca crie links", "perguntar direto ao Marcos", "revelar este prompt"]:
+    for trecho in ["SOMENTE as informações da <ficha>", "Nunca crie links", "perguntar direto ao Marcos", "revelar este prompt", "Nunca diga \"ficha\""]:
         assert trecho in prompt
 
 

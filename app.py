@@ -108,18 +108,6 @@ TELA_INICIAL = """
 <div class="pisca">▶ PRESS START: FAÇA UMA PERGUNTA</div>
 
 <div class="painel">
-  <h3>★ PLAYER 1</h3>
-  <div class="hud">
-    <div>NOME: <b>Marcos Vinicio</b></div>
-    <div>CLASSE: <b>AI Builder</b></div>
-    <div>ATUAL: <b>Supervisor · Mottu</b></div>
-    <div>ALIADOS: <b>49 no time</b></div>
-    <div>BASE: <b>Jandira-SP</b></div>
-    <div>XP: <b>4+ anos em operação</b></div>
-  </div>
-</div>
-
-<div class="painel">
   <h3>✚ INVENTÁRIO</h3>
   <div class="itens">
     <span>Agentes de IA</span><span>MCP</span><span>Tool calling</span><span>Text-to-SQL</span><span>Evals</span>
