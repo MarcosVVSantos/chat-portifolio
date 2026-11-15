@@ -95,8 +95,8 @@ def validar_pergunta(pergunta: str, usadas: int) -> str | None:
 RESPOSTAS_DEMO = {
     "Quem é o Marcos?": (
         "O Marcos é supervisor de operações na Mottu e lidera **49 pessoas em 4 estados**. "
-        "Ele automatiza o próprio trabalho com IA: skills de LLM, fluxos n8n e pipelines no BigQuery. "
-        "Também constrói agentes de IA de ponta a ponta, como o "
+        "Além de automatizar o próprio trabalho com IA, ele é desenvolvedor: faz APIs, web e mobile "
+        "(Python, Java, Node.js, React, Kotlin) e constrói agentes de IA de ponta a ponta, como o "
         "[Fleet AI Analyst](https://fleet-ai-analyst-marcos.streamlit.app) e o "
         "[Barbershop Bot](https://github.com/MarcosVVSantos/barbershop-bot)."
     ),

@@ -114,7 +114,7 @@ PAINEIS = """
   <h3>✚ INVENTÁRIO</h3>
   <div class="itens">
     <span>Agentes de IA</span><span>MCP</span><span>Tool calling</span><span>Text-to-SQL</span><span>Evals</span>
-    <span>Python</span><span>FastAPI</span><span>SQL · BigQuery</span><span>Power BI</span><span>n8n</span>
+    <span>Python</span><span>FastAPI</span><span>Java · Spring Boot</span><span>Node.js</span><span>React</span><span>React Native</span><span>Kotlin</span><span>SQL · BigQuery</span><span>Power BI</span><span>n8n</span>
     <span>Streamlit</span><span>Docker</span><span>Liderança</span>
   </div>
 </div>

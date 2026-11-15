@@ -7,9 +7,10 @@
 
 - Marcos Vinicio Vieira dos Santos, de Jandira, SP (região de Osasco).
 - Supervisor de operações que automatiza o próprio trabalho com IA: cria skills de LLM, fluxos n8n e pipelines no BigQuery que viram relatórios, alertas e decisões para equipes de campo.
-- Construiu do zero um agente de WhatsApp com tool calling e servidor MCP, testado em piloto real com cliente.
+- Também é desenvolvedor de software: estuda Desenvolvimento de Software Multiplataforma na FATEC e constrói aplicações completas, do back-end ao front-end e mobile, com Python (FastAPI), Java (Spring Boot), Node.js (Express), React, React Native e Kotlin (Android).
+- Construiu do zero um agente de WhatsApp com tool calling e servidor MCP, testado em piloto real com cliente, e uma plataforma web full-stack para produtores musicais (TrackHub) publicada online.
 - Objetivo profissional: transformar problemas de operação em agentes e ferramentas de IA. Busca oportunidades em IA aplicada, no perfil de "AI Builder": usar IA para construir soluções de ponta a ponta.
-- O diferencial dele é juntar três coisas que raramente vêm juntas: experiência de operação (sabe onde dói), dados (SQL, BigQuery, Power BI) e desenvolvimento com IA (agentes, LLMs, MCP).
+- O diferencial dele é juntar quatro coisas que raramente vêm juntas: experiência de operação (sabe onde dói), dados (SQL, BigQuery, Power BI), desenvolvimento de software (APIs, web e mobile) e IA aplicada (agentes, LLMs, MCP). Ele não depende de outra pessoa para tirar uma ideia do papel: entende o problema, modela os dados, escreve o código e coloca no ar.
 
 ## Experiência
 
@@ -74,7 +75,7 @@
 - IA generativa: LLMs (Claude, DeepSeek), agentes com tool calling, MCP (FastMCP), text-to-SQL, avaliação de LLMs (evals), prompt engineering, skills e Claude Code.
 - Automação: n8n, Google Apps Script, GitHub Actions, APScheduler, integração por APIs REST.
 - Dados: SQL (BigQuery, Dataform, DuckDB), Power BI (DAX), Python (Pandas), Streamlit, análise geoespacial.
-- Desenvolvimento: Python/FastAPI, Docker, Java/Spring Boot, Node.js, React, React Native, Kotlin/Android.
+- Desenvolvimento de software: back-end com Python (FastAPI), Java (Spring Boot, JPA, JWT) e Node.js (Express, Prisma, Sequelize); front-end com React, Vite e TailwindCSS; mobile com React Native e Kotlin (Android); bancos MySQL, PostgreSQL e SQLite; APIs REST, Docker, Git e GitHub Actions (CI/CD); testes automatizados com pytest.
 - Liderança e operação: gestão de equipe de campo, KPIs, priorização por custo, comunicação com times técnicos e não técnicos.
 
 ## Formação
